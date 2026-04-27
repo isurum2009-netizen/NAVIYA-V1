@@ -1,8 +1,8 @@
 {
-  "name": "DANUWA-MD",
+  "name": "NAVIYA-XS",
   "description": "Javascript WhatsApp bot made by Danuka Dissanayake",
-  "logo": "https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true",
-  "keywords": ["DANUWA-MD"],
+  "logo": "https://github.com/isurum2009-netizen/NAVIYA-V1/blob/main/images/ChatGPT%20Image%20Apr%2028%2C%202026%2C%2001_01_39%20AM.png",
+  "keywords": ["NAVIYA-XS"],
   "success_url": "/",
 
   "env": {
