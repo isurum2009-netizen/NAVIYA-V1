@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `NAVIYA-XS connected ✅\n\nPREFIX: ${prefix}`;
       await danuwa.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/DANUWA-MD/DANUWA-MD/blob/main/images/DANUWA-MD.png?raw=true` },
+        image: { url: `https://github.com/isurum2009-netizen/NAVIYA-V1/blob/main/images/ChatGPT%20Image%20Apr%2018%2C%202026%2C%2001_23_08%20PM.png` },
         caption: up
       });
 
